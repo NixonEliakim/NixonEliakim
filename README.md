@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NixonEliakim
+- 👋 Hi, I’m @NixonEkirapa
 - 👀 I’m interested in ...computer security/programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...(not yet...)
